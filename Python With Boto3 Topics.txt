@@ -1,0 +1,102 @@
+Programming Language - Python
+	Setup:
+		Installing Python
+		Setting Env Variables
+		Installing IDE - PyCharm
+		IDE Features
+		Creating PyCharm Project - Installing Packages
+		
+	Understanding Programming:
+		Basic units
+			Input
+			Output
+			Process
+		Types of Programming
+			Procedural Programming
+			Functional Programming
+			Object Ori Programming
+	
+	Algorithm
+		Writing a simple algorithm
+		
+	Python Basics:
+		First python Program:
+			using print()
+		Syntax
+		Comments
+		Variables
+		Data Types
+		Numbers
+			int, float, complex
+		Casting
+			using input()
+		Strings
+			immutable vs mutable
+		String Formatting
+		Booleans
+		Operators
+	
+	Python Intermediate:
+		Collections:
+			List
+			Tuples
+			Sets
+			Dictionaries
+		Control Structures
+			if-elif-else
+			while
+			for
+			in/not in
+		Comprehension
+		Functions
+			positional args
+			keyword arg
+			args and kwargs
+		Lambda
+			Map
+			Filters
+			Reduce		
+		
+	Python Advanced:
+		Classes/Objects
+		Inheritance
+		Iterators
+		Scope
+		Modules
+		Error Handling
+		File Handling
+			Read
+			Write/Create
+			Delete
+		JSON
+		Python Database Connectivity
+			RDBMS - MySQL	- mysql-connector
+			NoSQL - MongoDB - pymongo
+			
+Boto3:
+	Setup:
+		Install awscli
+		Install boto3
+		Configure Profile for aws user
+		IAM Role setup
+	Boto3 functions:
+		Session
+		Resource
+		Client
+		Waiter
+		Filters
+		Paginators
+	Sample Code Examples using Boto3:
+		EC2
+		IAM
+		S3
+		SQS
+		SNS
+		
+		
+	
+		
+	
+		
+		
+			
